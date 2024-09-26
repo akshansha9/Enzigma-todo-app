@@ -1,5 +1,6 @@
 Hi this is Kumar AKshansha
 And this is my to-do-list(react)
+here people can add task and delete task as per requirement.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
